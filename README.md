@@ -22,3 +22,6 @@ Final project paper document
 
 ### Dylan Cortegana - Final Project.pptx
 Final project presentation
+
+### README.md
+Read me file
